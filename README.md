@@ -109,10 +109,3 @@ The possible reasons for the errors could be:
 2. Two or more similar looking people - If there are multiple people with similar faces, then the model may wrongly classify a person as someone else. 
 3. Lack of training data - Deep learning networks are known to increase their accuracy in increasing the data. Since we have only one image per person, therefore there is scope for the model to be trained more efficiently.
 
-
-## Contributors
-
-1. Avinash Sontakke [Profile](https://github.com/avi1299)
-2. Shrey Shah [Profile](https://github.com/imshreyshah)
-3. Vishal Mittal [Profile](https://github.com/vismit2000)
-4. Harsh Sulakhe [Profile](https://github.com/HarshSulakhe)
