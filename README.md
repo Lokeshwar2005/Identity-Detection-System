@@ -13,7 +13,7 @@ Optionally, create a virtual environment on your system and open it.
 
 To run the application, first clone the repository by typing the command in git bash.
 ```
-git clone https://github.com/avi1299/face_recognition_system.git
+git clone https://github.com/lokeshwar2005/face_recognition_system.git
 
 ```
 Alternatively, you can download the code as .zip and extract the files.
